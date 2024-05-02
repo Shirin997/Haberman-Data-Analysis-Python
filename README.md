@@ -33,5 +33,5 @@ The Haberman's Survival Dataset comprises attributes related to patients who had
 Through this exploratory data analysis, we aim to gain insights into the factors influencing the survival of breast cancer patients post-surgery. By analyzing the dataset's attributes and their relationships, we can contribute to a better understanding of breast cancer treatment outcomes and potentially aid in improving patient care and prognosis prediction.
 
 ## Project Link
-(https://github.com/Shirin997/Haberman-Data-Analysis-Python/blob/main/EDA_Haberman_.ipynb)
+[Github repository](https://github.com/Shirin997/Haberman-Data-Analysis-Python/blob/main/EDA_Haberman_.ipynb)
 
